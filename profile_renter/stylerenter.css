@@ -1,0 +1,91 @@
+
+.headerLinks,a{
+  font-size: 15px;
+}
+
+#headerLinks{
+  font-style: 15px;
+}
+.navbar{
+  padding: 0px;
+  margin:0px;
+}
+.header {
+    position: absolute;
+    width: 100%;
+    z-index: 10;
+    filter: blur(0px);
+  }
+
+
+  /* Set a style for all buttons */
+ 
+
+  button:hover {
+      opacity: 0.8;
+  }
+
+ #btnlog{
+  margin-top: 10px;
+ }
+  /* Extra styles for the cancel button */
+
+  
+/*yahan s header k niche ka part styling*/
+
+
+body {
+  font-family: "Raleway", sans-serif
+  background-color: ;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.side {
+    float: right;
+}
+.right {
+    text-align: right;
+}
+
+.checked {
+    color: orange;
+}
+
+.list-bike {
+  border: 2px solid #ccc;
+  background-color: #eee;
+  border-radius: 5px;
+  padding: 16px;
+  margin: 20px 0;
+  width: 700px;
+
+}
+
+.form-group-row{
+  width: 300px;
+}
+#dark{
+  background-color: grey;
+  color: white;
+}
+.list-bike::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.list-bike img {
+  float: left;
+  margin-right: 20px;
+  border-radius: ;
+}
+
+.list-bike span {
+  font-size: 20px;
+  margin-right: 15px;
+}
+
+
