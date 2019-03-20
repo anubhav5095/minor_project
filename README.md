@@ -12,3 +12,5 @@ This is a bike rental webiste which prevents third parties from intervening betw
 * Rent a bike and fix your own price.
 * The bike will be shown at a decided fare to the customer.
 * Discuss the same and rent your vehicle.
+
+<img width="847" alt="Screenshot (42)" src="https://user-images.githubusercontent.com/34111062/54667906-97844280-4b13-11e9-887b-00beca78d2b6.png">
